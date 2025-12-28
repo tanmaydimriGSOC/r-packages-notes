@@ -14,4 +14,13 @@ to R packages in the open-source ecosystem.
 I am preparing for open-source contributions and programs like GSoC.
 This repo helps me document what I learn along the way.
 
+
+#### ✔ Add a “Why this package?” section
+```md
+## Why this package?
+
+This package is created to help beginners understand how R packages are structured
+and how functions, documentation, and examples work together.
+
+
 _Last updated: December 2025_
