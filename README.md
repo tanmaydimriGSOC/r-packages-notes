@@ -17,10 +17,10 @@ This repo helps me document what I learn along the way.
 
 #### ✔ Add a “Why this package?” section
 ```md
-## Why this package?
+This repository is created to practice building and understanding the
+structure of R packages. It focuses on learning documentation,
+function organization, and basic package development workflows using GitHub.
 
-This package is created to help beginners understand how R packages are structured
-and how functions, documentation, and examples work together.
 
 
 _Last updated: December 2025_
