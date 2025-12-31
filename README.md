@@ -11,7 +11,8 @@ This repository contains my personal notes while learning and contributing to R 
 
 ## Why this repo
 I am preparing for open-source contributions and programs like GSoC.
-This repo helps me document what I learn along the way.
+This repository helps me document my learning while exploring R package structure, documentation practices, and real-world contribution workflows.
+
 
 #### ✔ Add a “Why this package?” section
 ```md
