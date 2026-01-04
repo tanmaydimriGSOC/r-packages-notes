@@ -20,6 +20,6 @@ This repository is created to practice building and understanding the structure 
 ```
 CRAN Package Structure 
 
-CRAN packages follow a well-defined directory structure that helps ensure consistency, reliability, and ease of maintenance. Understanding this structure is essential for contributing effectively and writing packages that meet CRAN standards.
+CRAN packages follows a well-defined directory structure that helps ensure consistency, reliability, and ease of maintenance. Understanding this structure is essential for contributing effectively and writing packages that meet CRAN standards.
 
 
