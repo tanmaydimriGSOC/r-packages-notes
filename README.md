@@ -18,7 +18,7 @@ This repository helps me document my learning while exploring R package structur
 ```md
 This repository is created to practice building and understanding the structure of R packages. It focuses on learning documentation, function organization, and basic package development workflows using GitHub.
 ```
-CRAN Package Structure 
+CRAN Package Structures
 
 CRAN packages follows a well-defined directory structure that helps ensure consistency, reliability, and ease of maintenance. Understanding this structure is essential for contributing effectively and writing packages that meet CRAN standards.
 
