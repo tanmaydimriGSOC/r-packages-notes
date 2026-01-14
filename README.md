@@ -10,7 +10,7 @@ This repository contains my personal notes while learning and contributing to R 
 - Learning from code reviews and rejected PRs
 
 ## Why this repo
-I am preparing for open-source contributions and programs like GSoC.
+I am preparing for an open-source contributions and programs like GSoC.
 This repository helps me document my learning while exploring R package structure, documentation practices, and real-world contribution workflows.
 
 
