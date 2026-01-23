@@ -10,23 +10,23 @@ I am preparing for open-source contributions and programs such as Google Summer 
 
 Topics Covered
 
-Understanding CRAN package structure and standards
+1.Understanding CRAN package structure and standards
 
-Writing, reviewing, and maintaining vignettes
+2.Writing, reviewing, and maintaining vignettes
 
-Managing backward compatibility in R APIs
+3.Managing backward compatibility in R APIs
 
-The importance of not breaking existing behavior
+4.The importance of not breaking existing behavior
 
-Learning from code reviews, issues, and rejected PRs
+5.Learning from code reviews, issues, and rejected PRs
 
-Versioning, NEWS files, and release practices
+6.Versioning, NEWS files, and release practices
 
-Basic testing workflows using testthat
+7.Basic testing workflows using testthat
 
-Documentation using roxygen2
+8.Documentation using roxygen2
 
-Package checks and CRAN submission considerations
+9.Package checks and CRAN submission considerations
 
 Why R Packages?
 
