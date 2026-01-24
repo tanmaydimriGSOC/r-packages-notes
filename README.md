@@ -32,15 +32,15 @@ Why R Packages?
 
 R packages are the backbone of the R ecosystem. Learning how they are structured and maintained provides insight into:
 
-Writing reusable and maintainable code
+1.Writing reusable and maintainable code
 
-Collaborating effectively in open-source projects
+2.Collaborating effectively in open-source projects
 
-Following community conventions and best practices
+3.Following community conventions and best practices
 
-Designing APIs that are stable and user-friendly over time
+4.Designing APIs that are stable and user-friendly over time
 
-This repository reflects my ongoing effort to move from being a package user to a meaningful package contributor.
+5.This repository reflects my ongoing effort to move from being a package user to a meaningful package contributor.
 
 CRAN Package Structure
 
