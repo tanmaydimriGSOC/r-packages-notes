@@ -48,23 +48,23 @@ CRAN packages follow a well-defined directory structure that ensures consistency
 
 Common components include:
 
-DESCRIPTION – Metadata about the package (name, version, dependencies, author, license)
+1.DESCRIPTION – Metadata about the package (name, version, dependencies, author, license)
 
-NAMESPACE – Controls which functions are exported and imported
+2.NAMESPACE – Controls which functions are exported and imported
 
-R/ – Core R source files containing functions
+3.R/ – Core R source files containing functions
 
-man/ – Automatically generated documentation files (.Rd)
+4.man/ – Automatically generated documentation files (.Rd)
 
-vignettes/ – Long-form documentation and tutorials
+5.vignettes/ – Long-form documentation and tutorials
 
-tests/ – Unit tests, usually written with testthat
+6.tests/ – Unit tests, usually written with testthat
 
-inst/ – Additional files installed with the package
+7.inst/ – Additional files installed with the package
 
-NEWS.md – User-facing changes across versions
+8.NEWS.md – User-facing changes across versions
 
-README.md – Overview and usage information
+9.README.md – Overview and usage information
 
 Through this repository, I document what each of these components does, how they interact, and common mistakes encountered while working with them.
 
