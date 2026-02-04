@@ -84,6 +84,6 @@ Long-Term Goal
 
 The long-term goal of this repository is to build a strong foundation in R package development and open-source collaboration, enabling me to confidently contribute to established projects and participate in programs like GSoC.
 
-CI Understandig anddebugging 
+CI Understandig and debugging 
 
 I understand CI as an automated safeguard that validates code changes through reproducible checks such as tests, linting, and package checks across environments. In my contributions, I treat CI failures as actionable feedback—locally reproducing errors, identifying whether issues are introduced by my changes or upstream dependencies, and iterating until checks pass while keeping the codebase stable and maintainable.
