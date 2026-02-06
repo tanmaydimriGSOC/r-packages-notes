@@ -24,7 +24,7 @@ Topics Covered
 
 7.Basic testing workflows using testthat
 
-8.Documentation using roxygen2
+8.Documentation using roxygen
 
 9.Package checks and CRAN submission considerations
 
