@@ -70,17 +70,17 @@ Through this repository, I document what each of these components does, how they
 
 Learning Approach
 
-Read and analyze existing CRAN and GitHub-hosted packages
+1.Read and analyze existing CRAN and GitHub-hosted packages
 
-Reproduce package structures from scratch
+2.Reproduce package structures from scratch
 
-Submit small PRs and learn from feedback
+3.Submit small PRs and learn from feedback
 
-Study CRAN policies and check results
+4.Study CRAN policies and check results
 
-Treat rejections and reviews as learning opportunities
+5.Treat rejections and reviews as learning opportunities
 
-Long-Term Goal
+6.Long-Term Goal
 
 The long-term goal of this repository is to build a strong foundation in R package development and open-source collaboration, enabling me to confidently contribute to established projects and participate in programs like GSoC.
 
