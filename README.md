@@ -1,8 +1,4 @@
-My R Learning Journey — From Deployment Engineering to Open Source Packages
-
-How I got here
-My entry into R was not through a course or tutorial. It came sideways, from a completely different domain. My first serious engineering project was a fire and weapon detection system running on live CCTV feeds — YOLO, PyTorch, VGG16, Faster RCNN, trained from scratch and deployed in production. The model accuracy was the easy part. What stayed with me was everything else: the gap between something that works in a notebook and something that works reliably when real data hits it. Reproducibility, explicit state, edge cases you never anticipated — that is where the actual engineering lives.
-When I started looking at open source software, I kept coming back to R packages specifically because they sit at exactly that intersection — software engineering inside scientific practice. Scientists write the logic. The package is what makes that logic reusable, testable, and trustworthy across contexts no one anticipated when the code was first written. That was the same problem I had been thinking about since the CCTV project. So I stopped using packages and started reading them.
+My R Learning Journey 
 
 How R packages actually work — the fundamentals
 The first thing that surprised me was how much of an R package is infrastructure rather than logic. The actual functions you write are a small fraction of what makes a package work. The rest is:
