@@ -1,4 +1,4 @@
-###My R Learning Journey — From Deployment Engineering to Open Source Packages
+My R Learning Journey — From Deployment Engineering to Open Source Packages
 
 How I got here
 My entry into R was not through a course or tutorial. It came sideways, from a completely different domain. My first serious engineering project was a fire and weapon detection system running on live CCTV feeds — YOLO, PyTorch, VGG16, Faster RCNN, trained from scratch and deployed in production. The model accuracy was the easy part. What stayed with me was everything else: the gap between something that works in a notebook and something that works reliably when real data hits it. Reproducibility, explicit state, edge cases you never anticipated — that is where the actual engineering lives.
